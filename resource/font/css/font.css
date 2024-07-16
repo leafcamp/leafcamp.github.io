@@ -1,0 +1,41 @@
+/* NanumGothic */
+@font-face {
+  src: url(../nanum-gothic/NanumGothic-Regular.woff2);
+  font-family: 'nanum-gothic';
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  src: url(../nanum-gothic/NanumGothic-Bold.woff2);
+  font-family: 'nanum-gothic';
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Noto Serif KR */
+@font-face {
+  src: url(../noto-serif-kr/NotoSerifCJKkr-Regular-subset.woff2);
+  font-family: 'noto-serif-kr';
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  src: url(../noto-serif-kr/NotoSerifCJKkr-Bold-subset.woff2);
+  font-family: 'noto-serif-kr';
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Noto Sans KR */
+@font-face {
+  src: url(../noto-sans-kr/NotoSans-Regular.woff2);
+  font-family: 'noto-sans-kr';
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  src: url(../noto-sans-kr/NotoSans-Bold.woff2);
+  font-family: 'noto-sans-kr';
+  font-weight: bold;
+  font-style: normal;
+}
